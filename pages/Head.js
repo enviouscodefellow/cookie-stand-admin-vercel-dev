@@ -1,6 +1,3 @@
-import LoginForm from "./LoginForm";
-import CookieStandAdmin from "./index"
-
 export default function Head() {
   const user = null;
 

@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/enviouscodefellow/projects/courses/401/cookie-stand-admin/cookie-stand-admin/.venv"
+setenv VIRTUAL_ENV "/home/enviouscodefellow/projects/courses/401/cookie-stand-admin-vercel-dev/cookie-stand-admin-vercel-dev/.venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

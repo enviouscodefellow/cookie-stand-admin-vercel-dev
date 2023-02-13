@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/enviouscodefellow/projects/courses/401/cookie-stand-admin/cookie-stand-admin/.venv"
+set -gx VIRTUAL_ENV "/home/enviouscodefellow/projects/courses/401/cookie-stand-admin-vercel-dev/cookie-stand-admin-vercel-dev/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
