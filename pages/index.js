@@ -1,6 +1,6 @@
-import Head from 'next/head';
-import LoginForm from './LoginForm';
-import CookieStandAdmin from './StandAdmin';
+import Head from 'components/Head.js';
+import LoginForm from 'components/LoginForm';
+import CookieStandAdmin from 'components/StandAdmin';
 import { useAuth } from '../contexts/auth';
 
 
